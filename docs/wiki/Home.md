@@ -1,7 +1,7 @@
-# {TitleName}
+# ImGui Icons - More Styles
 
 ---
 
-Welcome to the {TitleName} wiki!
+Welcome to the ImGui Icons - More Styles wiki!
 
-{TitleName} is a mod for Skyrim Special Edition.
+ImGui Icons - More Styles is a mod for Skyrim Special Edition.

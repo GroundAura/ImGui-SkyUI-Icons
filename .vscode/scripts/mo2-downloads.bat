@@ -1,2 +1,2 @@
-copy "build\{ZipName}.zip" "{PathMO2Downloads}"
-copy "build\MO2\{ZipName}.zip.meta" "{PathMO2Downloads}"
+copy "build\ImGui Icons - More Styles.zip" "D:\Games\Skyrim\MO2\downloads"
+copy "build\MO2\ImGui Icons - More Styles.zip.meta" "D:\Games\Skyrim\MO2\downloads"

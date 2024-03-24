@@ -1,34 +1,10 @@
 {
-	"version": "2.0.0",
-	"tasks": [
-        {
-            "label": "Compile Papyrus Scripts (Debug)",
-            "type": "pyro",
-            "projectFile": ".vscode\\papyrus\\debug.ppj",
-            "gamePath": "${config:papyrus.skyrimSpecialEdition.installPath}",
-            "problemMatcher": [
-                "$PapyrusCompiler"
-            ]
-        },
-        {
-            "label": "Compile Papyrus Scripts (Release)",
-            "type": "pyro",
-            "projectFile": ".vscode\\papyrus\\release.ppj",
-            "gamePath": "${config:papyrus.skyrimSpecialEdition.installPath}",
-            "problemMatcher": [
-                "$PapyrusCompiler"
-            ]
-        },
+    "version": "2.0.0",
+    "tasks": [
         {
             "label": "copy-img.bat",
             "type": "shell",
             "command": ".vscode\\scripts\\copy-img.bat",
-            "presentation": {"echo": false, "reveal": "always", "focus": false, "panel": "shared", "showReuseMessage": false, "clear": true},
-        },
-        {
-            "label": "copy-pex.bat",
-            "type": "shell",
-            "command": ".vscode\\scripts\\copy-pex.bat",
             "presentation": {"echo": false, "reveal": "always", "focus": false, "panel": "shared", "showReuseMessage": false, "clear": true},
         },
         {
@@ -56,31 +32,32 @@
             "presentation": {"echo": false, "reveal": "always", "focus": false, "panel": "shared", "showReuseMessage": false, "clear": true},
         },
         {
-            "label": "Zip to build",
+            "label": "Compile description",
             "group": "build",
             "dependsOn": [
-                "Compile Papyrus Scripts (Release)",
-                "copy-img.bat",
-                "copy-pex.bat",
-                "zip.bat"
+                "md2nexus.bat"
             ]
         },
         {
             "label": "Copy to dist",
             "group": "build",
             "dependsOn": [
-                "Compile Papyrus Scripts (Release)",
+                "copy-img.bat"
+            ]
+        },
+        {
+            "label": "Zip to build",
+            "group": "build",
+            "dependsOn": [
                 "copy-img.bat",
-                "copy-pex.bat"
+                "zip.bat"
             ]
         },
         {
             "label": "Zip to MO2\\downloads",
             "group": "build",
             "dependsOn": [
-                "Compile Papyrus Scripts (Release)",
                 "copy-img.bat",
-                "copy-pex.bat",
                 "zip.bat",
                 "mo2-downloads.bat"
             ]
@@ -89,32 +66,8 @@
             "label": "Copy to MO2\\mods",
             "group": "build",
             "dependsOn": [
-                "Compile Papyrus Scripts (Release)",
-                "copy-pex.bat",
                 "mo2-mod.bat"
             ]
-        },
-        {
-            "label": "Compile Papyrus scripts",
-            "group": "build",
-            "dependsOn": [
-                "Compile Papyrus Scripts (Debug)",
-                "Compile Papyrus Scripts (Release)"
-            ]
-        },
-        {
-            "label": "Compile description",
-            "group": "build",
-            "dependsOn": [
-                "md2nexus.bat"
-            ]
-        },
-        {
-            "label": "Prepare Repository",
-            "type": "shell",
-            "command": "${command:python.interpreterPath}",
-            "args": [".vscode\\scripts\\prepare_repo.py"],
-            "group": "build"
         }
     ]
 }
