@@ -24,7 +24,7 @@
 
 - **Added button style:** Nordic UI
 
-- **Added button styles:** Outlander UI (default, mops)
+- **Added button styles:** Outlander UI (mops, sovngarde)
 
 - **Added button style:** SkyUI
 
