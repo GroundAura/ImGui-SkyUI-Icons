@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:ffdec="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" ffdec:objectType="frame" height="26.05px" width="52.95px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+    <use ffdec:characterId="3" height="26.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="26.0" xlink:href="#shape0"/>
+    <use ffdec:characterId="56" height="1.85" transform="matrix(1.4118, 0.0, 0.0, 1.4118, 7.5, 5.6)" width="4.25" xlink:href="#shape1"/>
+    <use ffdec:characterId="56" height="1.85" transform="matrix(1.4118, 0.0, 0.0, 1.4118, 6.7, 5.0)" width="4.25" xlink:href="#shape1"/>
+    <use ffdec:characterId="57" height="2.9" transform="matrix(1.0, 0.0, 0.0, 1.0, 16.75, 17.05)" width="2.55" xlink:href="#shape2"/>
+    <use ffdec:characterId="57" height="2.9" transform="matrix(1.0, 0.0, 0.0, 1.0, 15.95, 16.45)" width="2.55" xlink:href="#shape2"/>
+  </g>
+  <defs>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <pattern ffdec:smoothed="true" height="27" id="PatternID_3_1" overflow="visible" patternTransform="matrix(0.963, 0.0, 0.0, 0.963, 0.0, 0.0)" patternUnits="userSpaceOnUse" viewBox="0 0 27 27" width="27">
+        <image height="27" width="27" xlink:href="data:image/PNG;base64,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"/>
+      </pattern>
+      <path d="M0.0 0.0 L0.0 26.0 26.0 26.0 26.0 0.0 0.0 0.0" ffdec:fill-bitmapId="155" style="fill:url(#PatternID_3_1)"/>
+    </g>
+    <g id="shape1" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M0.7 0.35 L1.25 0.15 1.7 0.25 2.2 0.5 2.7 0.75 3.1 0.85 3.45 0.75 3.7 0.4 3.9 0.0 4.25 0.5 4.0 1.05 3.6 1.45 3.1 1.65 2.7 1.55 2.3 1.4 1.95 1.2 1.6 1.0 1.25 0.95 0.85 1.1 0.55 1.45 0.4 1.85 0.0 1.4 0.3 0.8 0.7 0.35" fill="#000000" fill-opacity="0.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="shape2" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M0.0 0.7 L1.15 0.0 2.55 2.4 1.7 2.9 0.0 0.7" fill="#000000" fill-opacity="0.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+  </defs>
+</svg>
