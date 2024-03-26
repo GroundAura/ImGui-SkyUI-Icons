@@ -1,6 +1,6 @@
 # ImGui Icons - More Styles - Changelog
 
-## Version 1.0.0
+## Version 0.2.0
 
 - **Initial release.**
 
@@ -13,8 +13,6 @@
 - **Added button style:** Dragonbreaker UI
 
 - **Added button style:** Dwemer Readius UI
-
-- **Added button style:** Edge UI
 
 - **Added button style:** Horizons UI
 
@@ -30,4 +28,4 @@
 
 - **Added button style:** SkyUI The Adventurer Theme
 
-- **Added button style:** Untarnished UI
+- **Added button style:** Untarnished UI (default, edge ui)

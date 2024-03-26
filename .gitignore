@@ -30,6 +30,7 @@ build/release/
 *test*.*
 .vscode/settings.json
 ExampleScript.pex
+remove-duplicates.py
 src/swf
 
 # Dependencies #

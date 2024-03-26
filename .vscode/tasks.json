@@ -32,6 +32,13 @@
             "presentation": {"echo": false, "reveal": "always", "focus": false, "panel": "shared", "showReuseMessage": false, "clear": true},
         },
         {
+            "label": "remove-duplicates.py",
+            "type": "shell",
+            "command": "${command:python.interpreterPath}",
+            "args": [".vscode\\scripts\\remove-duplicates.py"],
+            "group": "build"
+        },
+        {
             "label": "Compile description",
             "group": "build",
             "dependsOn": [
