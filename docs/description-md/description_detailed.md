@@ -2,109 +2,106 @@
 
 ## \[center\]![Overview](https://raw.githubusercontent.com/GroundAura/ImGui-SkyUI-Icons/main/docs/images/banners/Overview.png)\[/center\]
 
-\[font=Verdana\]**ImGui Icons - More Styles**\[/font\] provides more art styles for buttons used by ImGui Icons mods to match with popular UI overhauls. This currently only includes buttons. In the future I might add checkboxes, arrows/steppers, cursors, and/or fonts. The buttons have also not been widely tested so some may not have been properly exported or formatted. Some, like the Dear Diary buttons, may not be visible against the default style colors in mods like [Photo Mode](https://www.nexusmods.com/skyrimspecialedition/mods/91701). You may need to change the colors in the `styles.ini` files in those mods.
+\[font=Verdana\]**ImGui Icons - More Styles**\[/font\] provides more art styles for assets in the [ImGui Icons](https://www.nexusmods.com/skyrimspecialedition/mods/114790) library to match with popular UI overhauls. This currently only includes buttons.
+
+The buttons have not been widely quality tested so some may not be properly aligned, sized, or organized. It's a lot of work to export, realign, crop, and rename hundreds of files, so forgive me if something is messed up a little here or there. I figured many people would prefer a mostly working option now compared to a perfect option when/if I'd ever have the time and motivation to finish.
+
+In the future I might add/fix missing/new buttons, checkboxes, steppers/arrows, cursors, and fonts. If anyone wants to contribute, I'm open to that. More details in the Contributing section near the bottom of the page.
+
+It should be noted that some buttons, like the Dear Diary ones, may not be visible against the default style colors in mods like [Photo Mode](https://www.nexusmods.com/skyrimspecialedition/mods/91701). You may need to change the colors in the `styles.ini` files in those mods.
 
 ## \[center\]![Preview](https://raw.githubusercontent.com/GroundAura/ImGui-SkyUI-Icons/main/docs/images/banners/Preview.png)\[/center\]
 
-\[font=Verdana\]**Clear UI**\[/font\]
-\[spoiler\]
+## \[font=Verdana\]**Buttons**\[/font\]
+
+### \[font=Verdana\]**Clear UI**\[/font\]
+
 from [Clear UI](https://www.nexusmods.com/skyrimspecialedition/mods/51783) by [LeSwagueMasque](https://www.nexusmods.com/users/2390394)
 
-**Default (black keyboard, PS3, Xbox 360)**
+\[font=Verdana\]**Default (black keyboard, PS3, Xbox 360)**\[/font\]
 ![button art](https://raw.githubusercontent.com/GroundAura/ImGui-SkyUI-Icons/main/docs/images/preview/Button_ClearUI-default.png)
 
-**Xbox (One or Series)**
+\[font=Verdana\]**Xbox (One or Series)**\[/font\]
 ![button art](https://raw.githubusercontent.com/GroundAura/ImGui-SkyUI-Icons/main/docs/images/preview/Button_ClearUI-xbox1.png)
 
-**PS4**
+\[font=Verdana\]**PS4**\[/font\]
 ![button art](https://raw.githubusercontent.com/GroundAura/ImGui-SkyUI-Icons/main/docs/images/preview/Button_ClearUI-ps4.png)
 
-**PS5 (or white keyboard)**
+\[font=Verdana\]**PS5 (or white keyboard)**\[/font\]
 ![button art](https://raw.githubusercontent.com/GroundAura/ImGui-SkyUI-Icons/main/docs/images/preview/Button_ClearUI-ps5.png)
-\[/spoiler\]
 
-\[font=Verdana\]**Dear Diary**\[/font\]
-\[spoiler\]
+### \[font=Verdana\]**Dear Diary**\[/font\]
+
 from [Dear Diary](https://www.nexusmods.com/skyrimspecialedition/mods/23010) by [uranreactor](https://www.nexusmods.com/users/1863120)
 
-**Default**
+\[font=Verdana\]**Default**\[/font\]
 ![button art](https://raw.githubusercontent.com/GroundAura/ImGui-SkyUI-Icons/main/docs/images/preview/Button_DearDiary.png)
-\[/spoiler\]
 
-\[font=Verdana\]**Dear Diary Dark Mode**\[/font\]
-\[spoiler\]
+### \[font=Verdana\]**Dear Diary Dark Mode**\[/font\]
+
 from [Dear Diary Dark Mode](https://www.nexusmods.com/skyrimspecialedition/mods/60837) by [uranreactor](https://www.nexusmods.com/users/18631200)
 
-**Warm**
+\[font=Verdana\]**Warm**\[/font\]
 ![button art](https://raw.githubusercontent.com/GroundAura/ImGui-SkyUI-Icons/main/docs/images/preview/Button_DearDiaryDarkMode.png)
-\[/spoiler\]
 
-\[font=Verdana\]**Dragonbreaker UI**\[/font\]
-\[spoiler\]
+### \[font=Verdana\]**Dragonbreaker UI**\[/font\]
+
 from [Dragonbreaker UI](https://www.nexusmods.com/skyrimspecialedition/mods/73208) by [rob18](https://www.nexusmods.com/users/655360)
 
-**Default**
+\[font=Verdana\]**Default**\[/font\]
 ![button art](https://raw.githubusercontent.com/GroundAura/ImGui-SkyUI-Icons/main/docs/images/preview/Button_Dragonbreaker.png)
-\[/spoiler\]
 
-\[font=Verdana\]**Dwemer Readius UI**\[/font\]
-\[spoiler\]
+### \[font=Verdana\]**Dwemer Readius UI**\[/font\]
+
 from [Dwemer Readius UI](https://www.nexusmods.com/skyrimspecialedition/mods/46393) by [rob18](https://www.nexusmods.com/users/655360)
 
-**Default**
+\[font=Verdana\]**Default**\[/font\]
 ![button art](https://raw.githubusercontent.com/GroundAura/ImGui-SkyUI-Icons/main/docs/images/preview/Button_DwemerReadius.png)
-\[/spoiler\]
 
-\[font=Verdana\]**Horizons UI**\[/font\]
-\[spoiler\]
+### \[font=Verdana\]**Horizons UI**\[/font\]
+
 from [Horizons UI](https://www.nexusmods.com/skyrimspecialedition/mods/55441) by [rob18](https://www.nexusmods.com/users/655360)
 
-**Default**
+\[font=Verdana\]**Default**\[/font\]
 ![button art](https://raw.githubusercontent.com/GroundAura/ImGui-SkyUI-Icons/main/docs/images/preview/Button_Horizons.png)
-\[/spoiler\]
 
-\[font=Verdana\]**Immortal UI**\[/font\]
-\[spoiler\]
+### \[font=Verdana\]**Immortal UI**\[/font\]
+
 from [Immortal UI](https://www.nexusmods.com/skyrimspecialedition/mods/81054) by [rob18](https://www.nexusmods.com/users/655360)
 
-**Default**
+\[font=Verdana\]**Default**\[/font\]
 ![button art](https://raw.githubusercontent.com/GroundAura/ImGui-SkyUI-Icons/main/docs/images/preview/Button_Immortal.png)
-\[/spoiler\]
 
-\[font=Verdana\]**New Horizons UI**\[/font\]
-\[spoiler\]
+### \[font=Verdana\]**New Horizons UI**\[/font\]
+
 from [New Horizons UI](https://www.nexusmods.com/skyrimspecialedition/mods/87113) by [rob18](https://www.nexusmods.com/users/655360)
 
-**Default**
+\[font=Verdana\]**Default**\[/font\]
 ![button art](https://raw.githubusercontent.com/GroundAura/ImGui-SkyUI-Icons/main/docs/images/preview/Button_NewHorizons.png)
-\[/spoiler\]
 
-\[font=Verdana\]**Nordic UI**\[/font\]
-\[spoiler\]
+### \[font=Verdana\]**Nordic UI**\[/font\]
+
 from [Nordic UI](https://www.nexusmods.com/skyrimspecialedition/mods/49881) by [outobugi](https://www.nexusmods.com/users/27579385)
 
-**Default**
+\[font=Verdana\]**Default**\[/font\]
 ![button art](https://raw.githubusercontent.com/GroundAura/ImGui-SkyUI-Icons/main/docs/images/preview/Button_Nordic.png)
-\[/spoiler\]
 
-\[font=Verdana\]**Outlander UI**\[/font\]
-\[spoiler\]
+### \[font=Verdana\]**Outlander UI**\[/font\]
+
 from [Outlander UI](https://www.nexusmods.com/skyrimspecialedition/mods/53752) by [RbtRvltin](https://www.nexusmods.com/users/34846400)
 
-**Mops**
+\[font=Verdana\]**Mops**\[/font\]
 ![button art](https://raw.githubusercontent.com/GroundAura/ImGui-SkyUI-Icons/main/docs/images/preview/Button_Outlander-mops.png)
 
-**Sovngarde**
+\[font=Verdana\]**Sovngarde**\[/font\]
 ![button art](https://raw.githubusercontent.com/GroundAura/ImGui-SkyUI-Icons/main/docs/images/preview/Button_Outlander-sovngarde.png)
-\[/spoiler\]
 
-\[font=Verdana\]**SkyUI The Adventurer Theme**\[/font\]
-\[spoiler\]
+### \[font=Verdana\]**SkyUI The Adventurer Theme**\[/font\]
+
 from [SkyUI The Adventurer Theme](https://www.nexusmods.com/skyrimspecialedition/mods/35568) by [ElSopa](https://www.nexusmods.com/users/6960827)
 
-**Default**
+\[font=Verdana\]**Default**\[/font\]
 ![button art](https://raw.githubusercontent.com/GroundAura/ImGui-SkyUI-Icons/main/docs/images/preview/Button_TheAdventurerTheme.png)
-\[/spoiler\]
 
 ## \[center\]![Installation](https://raw.githubusercontent.com/GroundAura/ImGui-SkyUI-Icons/main/docs/images/banners/Installation.png)\[/center\]
 
@@ -124,9 +121,9 @@ Install ImGui Icons - More Styles after ImGui Icons and overwrite conflicting fi
 
 \[font=Verdana\]**Example Mod Order:**\[/font\]
 
-ImGui Icons
-ImGui Icons - More Styles
-ImGui Icons - Untarnished UI
+`ImGui Icons`
+`ImGui Icons - More Styles`
+`ImGui Icons - Untarnished UI`
 
 ## \[font=Verdana\]**Plugin Order (Plugins View)**\[/font\]
 
@@ -165,11 +162,11 @@ No plugins are included in this mod.
 
 ## \[center\]![Contributing](https://raw.githubusercontent.com/GroundAura/ImGui-SkyUI-Icons/main/docs/images/banners/Contributing.png)\[/center\]
 
-If anyone wants to help add to or improve this I'd be happy to help support that. That includes but is not limited to: fixes for currently included assets, new asset styles or options, new buttons/checkboxes/steppers/cursors/fonts/etc. Just contact me through Nexus or [Discord](https://discord.gg/zft8DmbfKv).
+If anyone wants to help add to or improve this I'd be happy to help support and facilitate that. Just contact me through Nexus or [Discord](https://discord.gg/zft8DmbfKv).
 
-## \[center\]![Source](https://raw.githubusercontent.com/GroundAura/ImGui-SkyUI-Icons/main/docs/images/banners/Source.png)\[/center\]
+That includes but is not limited to fixes for currently included assets, new buttons/checkboxes/steppers/cursors/fonts styles or options, etc.
 
-[Github](https://github.com/GroundAura/ImGui-SkyUI-Icons)
+[Source/Mirror on Github](https://github.com/GroundAura/ImGui-SkyUI-Icons)
 
 ## \[center\]![Thanks](https://raw.githubusercontent.com/GroundAura/ImGui-SkyUI-Icons/main/docs/images/banners/Thanks.png)\[/center\]
 

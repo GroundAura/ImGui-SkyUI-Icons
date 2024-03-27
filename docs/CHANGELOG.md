@@ -1,6 +1,6 @@
 # ImGui Icons - More Styles - Changelog
 
-## Version 0.3.0
+## Version 0.5.0
 
 - **Initial release.**
 
@@ -24,8 +24,4 @@
 
 - **Added button styles:** Outlander UI (mops, sovngarde)
 
-- **Added button style:** SkyUI
-
 - **Added button style:** SkyUI The Adventurer Theme
-
-- **Added button style:** Untarnished UI (default, edge ui)
