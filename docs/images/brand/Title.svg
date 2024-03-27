@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="369.51596"
-   height="61.50243"
-   viewBox="0 0 97.767763 16.272518"
+   width="710.20343"
+   height="62.322765"
+   viewBox="0 0 187.90799 16.489565"
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
@@ -27,8 +27,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.0520974"
-     inkscape:cx="234.76914"
-     inkscape:cy="87.919617"
+     inkscape:cx="352.62895"
+     inkscape:cy="103.12733"
      inkscape:window-width="2560"
      inkscape:window-height="1377"
      inkscape:window-x="1192"
@@ -41,7 +41,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-0.19898613,-0.02534573)">
+     transform="translate(-0.08843913,-0.00323633)">
     <text
        xml:space="preserve"
        style="font-size:22.1094px;line-height:1.25;font-family:Alef;-inkscape-font-specification:Alef;stroke-width:0.260109"
@@ -52,6 +52,6 @@
          id="tspan1"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.1094px;font-family:Sovngarde;-inkscape-font-specification:'Sovngarde Bold';fill:#f9f9f9;stroke-width:0.260109"
          x="-0.46429586"
-         y="12.229734">Project Name</tspan></text>
+         y="12.229734">ImGui Icons - More Styles</tspan></text>
   </g>
 </svg>

@@ -1,1 +1,1 @@
-ImGui Icons - More Styles is a mod that does a thing.
+ImGui Icons - More Styles provides more art styles for buttons used by ImGui mods to match with popular UI overhauls.
